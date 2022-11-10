@@ -93,10 +93,20 @@ delay(200);
 
 # DISPLAY OFF()
 
+![image](https://user-images.githubusercontent.com/94165327/201052120-ac393728-b605-451a-a52f-80708ffc4872.png)
+
+
 # DISPLAY ON(NUMERIC)
 
-#DISPLAY ON(ALPHABET)
+![image](https://user-images.githubusercontent.com/94165327/201052206-565c1042-4a24-45da-8ce7-0d468dfe088c.png)
 
+
+# DISPLAY ON(ALPHABET)
+
+![image](https://user-images.githubusercontent.com/94165327/201052369-253d2ed4-e3d0-4f23-9413-9a0c16013a88.png)
+
+
+![image](https://user-images.githubusercontent.com/94165327/201052303-d98102d6-220a-45c2-b1f3-342dd2e8001a.png)
 
 ### Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
